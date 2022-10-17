@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
-import "./multisig.sol";
+import "./Multisig.sol";
 
 contract MultiSigFactory {
     //a factory contract that create multiple clones of multisig.sol
